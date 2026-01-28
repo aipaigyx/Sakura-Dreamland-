@@ -1,279 +1,113 @@
-# 樱花梦境博客系统
-
+# 🌸 樱花梦境博客系统
 ![GitHub](https://img.shields.io/github/license/sakuradream/aniblog)
 ![GitHub stars](https://img.shields.io/github/stars/sakuradream/aniblog?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sakuradream/aniblog?style=social)
+![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-%2338B2AC)
 
-## 项目简介
+一款专为二次元爱好者打造的现代化博客系统，聚焦动漫、游戏及二次元文化内容分享，兼顾美观度与实用性，开箱即用且易于拓展。
 
-樱花梦境博客系统是一个现代化的二次元风格博客网站，专注于提供高质量的动漫、游戏和二次元文化内容。
+## ✨ 核心特性
+- **🎨 二次元响应式设计**：基于Tailwind CSS构建，适配全设备，支持主题自定义
+- **📦 全量内容模块**：文章/图片画廊/角色生成器/资讯/视频卡片，满足多元展示需求
+- **💬 沉浸式互动**：评论、点赞、收藏、实时弹幕，打造专属二次元社区
+- **👤 完整用户体系**：注册/登录/个人中心，账号安全与个性化管理兼备
+- **🛠️ 高效后台**：一站式内容/用户/系统管理，零基础也能轻松运维
 
-- **现代化设计**：采用Tailwind CSS构建的响应式界面，支持各种设备尺寸
-- **丰富的功能**：文章系统、图片画廊、角色生成器、资讯卡片、视频卡片等
-- **互动体验**：评论、点赞、收藏、弹幕等多种互动功能
-- **用户系统**：完整的用户注册、登录、个人中心功能
-- **后台管理**：功能强大的管理后台，支持内容管理、用户管理、系统设置等
+## 🛠️ 技术栈
+| 分类       | 技术清单                                  |
+|------------|-------------------------------------------|
+| 前端       | HTML5 / CSS3 / JS(ES6+) / Tailwind CSS / GSAP |
+| 后端       | PHP 8.x / MySQL 5.7+ / Redis 6.0+（可选） |
+| 部署环境   | Apache 2.4+ / Nginx 1.18+ / 宝塔面板      |
+| 架构模式   | 模块化设计 + 模板驱动                     |
 
-## 技术栈
-
-- **前端**：HTML5 + CSS3 + JavaScript (ES6+) + Tailwind CSS + GSAP
-- **后端**：PHP 8.x + MySQL + Redis
-- **架构模式**：模块化设计，模板驱动
-
-## 目录结构
-
-```
-├── public/                # 主网站目录
+## 📂 核心目录结构
+```bash
+├── public/                # 主网站访问目录
 │   ├── admin/            # 管理后台
-│   ├── api/              # API接口
-│   ├── assets/           # 静态资源
-│   │   ├── css/          # CSS样式文件
-│   │   ├── images/       # 图片资源
-│   │   ├── js/           # JavaScript文件
-│   │   └── vendor/       # 第三方库
-│   ├── components/       # UI组件
-│   ├── sessions/         # 会话存储
-│   ├── cache/            # 缓存存储
+│   ├── assets/           # 静态资源（css/images/js）
 │   ├── uploads/          # 文件上传目录
 │   └── user/             # 用户中心
-├── app/                  # 应用核心目录
+├── app/                  # 核心业务逻辑
 ├── tests/                # 测试文件
-├── vendor/               # Composer依赖
-└── .trae/                # Trae AI配置
+└── vendor/               # Composer依赖
 ```
 
-## 主要功能模块
-
-### 内容管理
-- **文章系统**：支持富文本编辑、分类管理、标签系统
-- **图片画廊**：支持图片上传、分类、标签、瀑布流布局
-- **角色生成器**：支持创建和管理角色卡片
-- **资讯卡片**：展示最新资讯和新闻
-- **视频卡片**：展示视频内容
-- **内容搜索**：支持中文关键词搜索
-
-### 用户管理
-- **注册系统**：支持邮箱注册和验证
-- **登录系统**：支持账号密码登录和记住密码
-- **密码重置**：支持通过邮箱重置密码
-- **用户中心**：个人资料管理、文章管理、收藏管理等
-
-### 互动系统
-- **评论系统**：支持文章评论和回复
-- **点赞功能**：支持对文章、评论等内容点赞
-- **收藏功能**：支持收藏文章、图片等内容
-- **弹幕功能**：支持在文章页面发送弹幕
-
-### 系统管理
-- **数据备份**：支持数据库备份
-- **网络监控**：监控网站访问情况
-- **Redis缓存**：管理缓存配置
-- **通知配置**：管理邮件模板和推送配置
-
-## 管理后台
-
-管理后台位于 `public/admin/` 目录，提供了以下功能：
-
-- **文章管理**：创建、编辑、删除文章
-- **图片管理**：上传、管理图片
-- **角色管理**：创建、编辑角色卡片
-- **资讯卡片管理**：管理资讯内容
-- **视频卡片管理**：管理视频内容
-- **用户管理**：管理用户账号和权限
-- **系统设置**：配置网站基本信息、主题颜色、显示设置等
-- **首页排版**：管理首页模块和布局
-
-## 安装与配置
-
+## 🚀 快速安装
 ### 环境要求
-- **Web服务器**：Apache或Nginx
-- **PHP版本**：8.0+
-- **MySQL版本**：5.7+
-- **Redis版本**：6.0+（可选，用于缓存）
+- PHP 8.0+（开启fileinfo扩展）、MySQL 5.7+
+- Apache/Nginx、Redis 6.0+（可选）
 
-### 普通服务器安装步骤
-1. **克隆项目**：将项目文件上传到服务器
-   ```bash
-   git clone https://github.com/aipaigyx/Sakura-Dreamland-.git
-   cd Sakura-Dreamland-
-   ```
+### 普通服务器安装
+```bash
+# 1. 克隆项目
+git clone https://github.com/aipaigyx/Sakura-Dreamland-.git
+cd Sakura-Dreamland-
 
-2. **创建数据库**：创建MySQL数据库并导入初始数据
+# 2. 创建数据库并导入初始数据
+# 3. 配置数据库信息（修改public/db.php）
 
-3. **配置数据库**：修改 `public/db.php` 文件中的数据库连接信息
+# 4. 设置目录权限
+chmod -R 755 public/uploads/ public/cache/ public/sessions/
 
-4. **设置目录权限**：确保 `uploads/`、`cache/`、`sessions/` 目录有读写权限
-   ```bash
-   chmod -R 755 public/uploads/
-   chmod -R 755 public/cache/
-   chmod -R 755 public/sessions/
-   ```
+# 5. 安装依赖
+composer install
 
-5. **安装依赖**：如果使用Composer管理依赖
-   ```bash
-   composer install
-   ```
-
-6. **访问网站**：在浏览器中访问网站地址
-
-### 宝塔面板安装指南
-1. **登录宝塔面板**：打开宝塔面板后台
-
-2. **创建网站**：
-   - 点击「网站」→「添加站点」
-   - 填写域名信息
-   - 选择PHP版本：8.0+
-   - 创建MySQL数据库
-
-3. **安装必要软件**：
-   - **PHP扩展**：fileinfo、redis（如果使用Redis缓存）
-   - **数据库**：MySQL 5.7+
-   - **缓存**：Redis 6.0+（可选）
-
-4. **上传项目**：
-   - 方法1：使用Git克隆
-     - 进入网站根目录
-     - 执行命令：`git clone https://github.com/aipaigyx/Sakura-Dreamland-.git .`
-   - 方法2：上传压缩包
-     - 下载项目压缩包
-     - 上传到网站根目录并解压
-
-5. **配置数据库**：
-   - 修改 `public/db.php` 文件，填写宝塔面板创建的数据库信息
-
-6. **设置目录权限**：
-   - 在宝塔面板中，进入网站根目录
-   - 选中 `public/uploads/`、`public/cache/`、`public/sessions/` 目录
-   - 设置权限为755
-
-7. **访问网站**：在浏览器中访问您的域名
-
-### 初始账号
-- **管理员账号**：admin@example.com
-- **密码**：admin123
-
-## 基本使用方法
-
-### 创建文章
-1. 登录管理后台
-2. 点击左侧菜单中的「文章管理」
-3. 点击「添加文章」按钮
-4. 填写文章标题、内容、分类等信息
-5. 点击「保存」按钮
-
-### 管理图片
-1. 登录管理后台
-2. 点击左侧菜单中的「图片管理」
-3. 点击「上传图片」按钮
-4. 选择图片文件并上传
-5. 为图片添加标题、描述等信息
-
-### 配置网站设置
-1. 登录管理后台
-2. 点击左侧菜单中的「系统设置」
-3. 根据需要修改网站基本信息、主题颜色、显示设置等
-4. 点击「保存」按钮
-
-## 贡献指南
-
-### 如何贡献
-1. **Fork** 本仓库
-2. **Clone** 你fork的仓库到本地
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Sakura-Dreamland-.git
-   cd Sakura-Dreamland-
-   ```
-3. **创建分支**：创建一个新的分支来开发你的功能或修复
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-4. **开发**：实现你的功能或修复
-5. **提交**：提交你的更改
-   ```bash
-   git add .
-   git commit -m "Add your commit message here"
-   ```
-6. **推送**：推送你的分支到GitHub
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-7. **创建Pull Request**：在GitHub上创建一个Pull Request
-
-### 支持项目
-如果你喜欢这个项目，请帮我点个 ⭐ 收藏，这是对我最大的鼓励和支持！
-
-### 代码规范
-- 遵循PSR-4自动加载规范
-- 使用命名空间组织代码
-- 代码缩进使用4个空格
-- 变量和函数命名使用小写字母和下划线
-- 类名使用驼峰命名法
-- 方法名使用驼峰命名法
-- 提交消息应该清晰明了，描述你的更改
-
-## 许可证信息
-
-本项目采用 **MIT License** 许可证。
-
-### MIT License
-
-```
-MIT License
-
-Copyright (c) 2026 樱花梦境
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# 6. 访问网站（浏览器打开域名/服务器IP）
 ```
 
-## 安全注意事项
+### 宝塔面板安装（新手推荐）
+1. 宝塔面板 → 网站 → 添加站点（选择PHP 8.0+）
+2. 安装扩展：fileinfo、redis（如需缓存）
+3. 网站根目录 → 远程下载/上传解压项目
+4. 配置数据库信息，设置目录权限为755
+5. 访问域名即可使用
 
-1. **定期备份**：定期备份数据库和重要文件
-2. **更新密码**：定期更新管理员密码
-3. **权限管理**：合理设置用户权限
-4. **安全配置**：关闭不必要的服务和端口
-5. **防止SQL注入**：使用预处理语句和参数化查询
-6. **防止XSS攻击**：对用户输入进行过滤和转义
+#### 初始管理员账号
+```
+账号：admin@example.com
+密码：admin123
+```
 
-## 常见问题
+## 📌 核心功能
+| 模块         | 核心能力                                  |
+|--------------|-------------------------------------------|
+| 内容管理     | 富文本文章/瀑布流画廊/角色生成器/资讯/视频卡片 |
+| 用户管理     | 邮箱注册/验证登录/密码重置/个人中心       |
+| 互动系统     | 评论回复/点赞收藏/实时弹幕                |
+| 后台管理     | 内容管控/用户权限/系统配置/数据备份        |
 
-### 1. 无法上传图片
-- 检查 `uploads/` 目录权限是否正确
-- 检查PHP配置中的上传限制
-- 检查文件大小是否超过限制
+## ❓ 常见问题
+<details>
+<summary>无法上传图片</summary>
+1. 检查uploads目录权限是否为755；2. 调整PHP上传文件大小限制；3. 确认图片格式为jpg/png/gif。
+</details>
 
-### 2. 网站加载缓慢
-- 启用Redis缓存
-- 优化图片大小和格式
-- 检查服务器资源使用情况
+<details>
+<summary>网站加载缓慢</summary>
+1. 启用Redis缓存；2. 压缩图片资源；3. 检查服务器带宽/CPU占用；4. 开启CDN加速。
+</details>
 
-### 3. 后台登录失败
-- 检查用户名和密码是否正确
-- 检查数据库连接是否正常
-- 检查PHP会话设置
+<details>
+<summary>后台登录失败</summary>
+1. 核对账号密码；2. 检查数据库连接配置；3. 清除浏览器缓存/Cookie。
+</details>
 
-## 联系我们
+## 🤝 贡献指南
+1. Fork本仓库 → 克隆到本地 → 创建功能分支（feature/xxx）
+2. 开发功能/修复Bug → 提交代码（git commit -m "feat: 新增XXX功能"）
+3. 推送分支 → 创建Pull Request → 等待审核合并
 
-- **邮箱**：2208850891@qq.com
-- **官方网站**：https://www.sakuradream.com
-- **GitHub**：https://github.com/aipaigyx/Sakura-Dreamland-
-- **哔哩哔哩**：https://space.bilibili.com/12644772?spm_id_from=333.1007.0.0
-- **QQ群**：1081909009
+## 📞 联系我们
+- 邮箱：2208850891@qq.com
+- 官网：https://www.sakuradream.com
+- GitHub：https://github.com/aipaigyx/Sakura-Dreamland-
+- B站：https://space.bilibili.com/12644772
+- QQ群：1081909009
+
+## 📜 许可证
+本项目基于 MIT 协议开源，可自由使用、修改、分发（需保留原版权声明）。
 
 ---
-
-© 2026 樱花梦境. 保留所有权利。
+<div align="center">© 2026 樱花梦境 · 二次元博客系统</div>
