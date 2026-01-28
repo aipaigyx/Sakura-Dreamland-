@@ -101,7 +101,6 @@ composer install
 
 ## 📞 联系我们
 - 邮箱：2208850891@qq.com
-- 官网：https://www.sakuradream.com
 - GitHub：https://github.com/aipaigyx/Sakura-Dreamland-
 - B站：https://space.bilibili.com/12644772
 - QQ群：1081909009
