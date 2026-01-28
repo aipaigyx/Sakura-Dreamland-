@@ -1,0 +1,7 @@
+# 设置PHP会话保存路径
+php_value session.save_path "/www/wwwroot/gre/public/sessions"
+
+# 设置会话自动启动（可选，根据需求调整）
+# php_value session.auto_start 1
+
+# 其他Apache配置...

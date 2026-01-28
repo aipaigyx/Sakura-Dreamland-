@@ -1,0 +1,220 @@
+[Wed Jan 14 11:19:20 2026] PHP 8.2.28 Development Server (http://0.0.0.0:8000) started
+[Wed Jan 14 11:19:34 2026] 127.0.0.1:47478 Accepted
+[Wed Jan 14 11:19:34 2026] 127.0.0.1:47478 [200]: HEAD /
+[Wed Jan 14 11:19:34 2026] 127.0.0.1:47478 Closing
+[Wed Jan 14 11:19:38 2026] 127.0.0.1:54868 Accepted
+[Wed Jan 14 11:19:38 2026] 127.0.0.1:54868 [200]: GET /
+[Wed Jan 14 11:19:38 2026] 127.0.0.1:54868 Closing
+[Wed Jan 14 11:19:44 2026] 127.0.0.1:54874 Accepted
+[Wed Jan 14 11:19:44 2026] 127.0.0.1:54874 [200]: GET /login.php
+[Wed Jan 14 11:19:44 2026] 127.0.0.1:54874 Closing
+[Wed Jan 14 11:20:28 2026] 127.0.0.1:60580 Accepted
+[Wed Jan 14 11:20:28 2026] 127.0.0.1:60580 [200]: HEAD /cssd-demo.html
+[Wed Jan 14 11:20:28 2026] 127.0.0.1:60580 Closing
+[Wed Jan 14 11:20:34 2026] 127.0.0.1:60588 Accepted
+[Wed Jan 14 11:20:34 2026] 127.0.0.1:60588 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360831485
+[Wed Jan 14 11:20:34 2026] 127.0.0.1:60588 Closing
+[Wed Jan 14 11:20:35 2026] 127.0.0.1:60596 Accepted
+[Wed Jan 14 11:20:35 2026] 127.0.0.1:60596 [200]: GET /@vite/client
+[Wed Jan 14 11:20:35 2026] 127.0.0.1:60596 Closing
+[Wed Jan 14 11:21:25 2026] 127.0.0.1:45508 Accepted
+[Wed Jan 14 11:21:25 2026] 127.0.0.1:45508 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360882580
+[Wed Jan 14 11:21:25 2026] 127.0.0.1:45508 Closing
+[Wed Jan 14 11:21:26 2026] 127.0.0.1:45516 Accepted
+[Wed Jan 14 11:21:26 2026] 127.0.0.1:45516 [200]: GET /@vite/client
+[Wed Jan 14 11:21:26 2026] 127.0.0.1:45516 Closing
+[Wed Jan 14 11:21:40 2026] 127.0.0.1:58780 Accepted
+[Wed Jan 14 11:21:40 2026] 127.0.0.1:58780 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360897438
+[Wed Jan 14 11:21:40 2026] 127.0.0.1:58780 Closing
+[Wed Jan 14 11:21:40 2026] 127.0.0.1:58790 Accepted
+[Wed Jan 14 11:21:41 2026] 127.0.0.1:58790 [200]: GET /@vite/client
+[Wed Jan 14 11:21:41 2026] 127.0.0.1:58790 Closing
+[Wed Jan 14 11:23:38 2026] 106.52.79.248:64661 Accepted
+[Wed Jan 14 11:23:39 2026] 106.52.79.248:64661 [200]: GET /backup/
+[Wed Jan 14 11:23:39 2026] 106.52.79.248:64661 Closing
+[Wed Jan 14 11:27:14 2026] 127.0.0.1:33684 Accepted
+[Wed Jan 14 11:27:14 2026] 127.0.0.1:33684 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360897438
+[Wed Jan 14 11:27:14 2026] 127.0.0.1:33684 Closing
+[Wed Jan 14 11:27:14 2026] 127.0.0.1:33698 Accepted
+[Wed Jan 14 11:27:15 2026] 127.0.0.1:33698 [200]: GET /@vite/client
+[Wed Jan 14 11:27:15 2026] 127.0.0.1:33698 Closing
+[Wed Jan 14 11:28:11 2026] 127.0.0.1:45820 Accepted
+[Wed Jan 14 11:28:11 2026] 127.0.0.1:45820 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360897438
+[Wed Jan 14 11:28:11 2026] 127.0.0.1:45820 Closing
+[Wed Jan 14 11:28:12 2026] 127.0.0.1:45834 Accepted
+[Wed Jan 14 11:28:12 2026] 127.0.0.1:45834 [200]: GET /@vite/client
+[Wed Jan 14 11:28:12 2026] 127.0.0.1:45834 Closing
+[Wed Jan 14 11:28:53 2026] 127.0.0.1:36254 Accepted
+[Wed Jan 14 11:28:53 2026] 127.0.0.1:36254 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360897438
+[Wed Jan 14 11:28:53 2026] 127.0.0.1:36254 Closing
+[Wed Jan 14 11:28:53 2026] 127.0.0.1:36266 Accepted
+[Wed Jan 14 11:28:53 2026] 127.0.0.1:36266 [200]: GET /@vite/client
+[Wed Jan 14 11:28:53 2026] 127.0.0.1:36266 Closing
+[Wed Jan 14 11:31:52 2026] 127.0.0.1:44444 Accepted
+[Wed Jan 14 11:31:52 2026] 127.0.0.1:44444 [200]: GET /cssd-demo.html?ide_webview_request_time=1768360897438
+[Wed Jan 14 11:31:52 2026] 127.0.0.1:44444 Closing
+[Wed Jan 14 11:31:52 2026] 127.0.0.1:44446 Accepted
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:44446 [200]: GET /?ide_webview_request_time=1768361544196
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:44446 Closing
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51268 Accepted
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51268 [200]: GET /assets/css/unified.css
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51268 Closing
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51278 Accepted
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51278 [200]: GET /uploads/images/img_6964fb96b27ce.jpg
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51278 Closing
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51290 Accepted
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51290 [200]: GET /uploads/images/img_6964e20850ec5.jpg
+[Wed Jan 14 11:32:27 2026] 127.0.0.1:51290 Closing
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51306 Accepted
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51314 Accepted
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51306 [200]: GET /uploads/images/img_6964e17b1c4df.png
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51306 Closing
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51314 [200]: GET /uploads/images/img_6964e1cc886a3.png
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51314 Closing
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51328 Accepted
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51328 [200]: GET /assets/js/main.js
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51328 Closing
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51336 Accepted
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51336 [200]: GET /uploads/images/img_6964e08e87873.png
+[Wed Jan 14 11:32:30 2026] 127.0.0.1:51336 Closing
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51350 Accepted
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51350 [200]: GET /assets/js/interactivity.js
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51350 Closing
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51364 Accepted
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51364 [200]: GET /uploads/article-covers/cover_6965b9251369a.jpg
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51364 Closing
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51370 Accepted
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51370 [200]: GET /uploads/article-covers/cover_6965b7d4df19d.png
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51370 Closing
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51386 Accepted
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51386 [200]: GET /uploads/images/img_6964d606ea467.png
+[Wed Jan 14 11:32:31 2026] 127.0.0.1:51386 Closing
+[Wed Jan 14 11:32:33 2026] 127.0.0.1:51400 Accepted
+[Wed Jan 14 11:32:33 2026] 127.0.0.1:51400 [200]: GET /uploads/images/img_6964d6b9c5960.png
+[Wed Jan 14 11:32:33 2026] 127.0.0.1:51400 Closing
+[Wed Jan 14 11:32:33 2026] 127.0.0.1:51408 Accepted
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51408 [200]: GET /api/notification-count.php
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51408 Closing
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51424 Accepted
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51426 Accepted
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51424 [200]: GET /api.php?action=get_latest_articles&limit=5
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51424 Closing
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51436 Accepted
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51426 [200]: GET /api.php?action=get_statistics
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51426 Closing
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51436 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51436 Closing
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51440 Accepted
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51440 [200]: GET /@vite/client
+[Wed Jan 14 11:32:34 2026] 127.0.0.1:51440 Closing
+[Wed Jan 14 11:33:02 2026] 127.0.0.1:50032 Accepted
+[Wed Jan 14 11:33:02 2026] 127.0.0.1:50032 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:33:02 2026] 127.0.0.1:50032 Closing
+[Wed Jan 14 11:33:02 2026] 127.0.0.1:50042 Accepted
+[Wed Jan 14 11:33:27 2026] 127.0.0.1:50042 [200]: GET /api/notifications.php?limit=5
+[Wed Jan 14 11:33:27 2026] 127.0.0.1:50042 Closing
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48956 Accepted
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48956 [200]: GET /api.php?action=get_latest_articles&limit=5
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48956 Closing
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48968 Accepted
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48968 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48968 Closing
+[Wed Jan 14 11:33:32 2026] 127.0.0.1:48982 Accepted
+[Wed Jan 14 11:34:01 2026] 127.0.0.1:48982 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:34:01 2026] 127.0.0.1:48982 Closing
+[Wed Jan 14 11:34:28 2026] 127.0.0.1:51714 Accepted
+[Wed Jan 14 11:34:28 2026] 127.0.0.1:51714 [200]: GET /api/notifications.php?limit=5
+[Wed Jan 14 11:34:28 2026] 127.0.0.1:51714 Closing
+[Wed Jan 14 11:34:28 2026] 127.0.0.1:51730 Accepted
+[Wed Jan 14 11:34:31 2026] 127.0.0.1:51730 [200]: GET /api.php?action=get_latest_articles&limit=5
+[Wed Jan 14 11:34:31 2026] 127.0.0.1:51730 Closing
+[Wed Jan 14 11:34:32 2026] 127.0.0.1:51734 Accepted
+[Wed Jan 14 11:34:32 2026] 127.0.0.1:51734 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:34:32 2026] 127.0.0.1:51734 Closing
+[Wed Jan 14 11:35:02 2026] 127.0.0.1:57406 Accepted
+[Wed Jan 14 11:35:02 2026] 127.0.0.1:57406 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:35:02 2026] 127.0.0.1:57406 Closing
+[Wed Jan 14 11:35:02 2026] 127.0.0.1:57412 Accepted
+[Wed Jan 14 11:35:27 2026] 127.0.0.1:57412 [200]: GET /api/notifications.php?limit=5
+[Wed Jan 14 11:35:27 2026] 127.0.0.1:57412 Closing
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37202 Accepted
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37204 Accepted
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37202 [200]: GET /api.php?action=get_latest_articles&limit=5
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37202 Closing
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37204 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37204 Closing
+[Wed Jan 14 11:35:32 2026] 127.0.0.1:37208 Accepted
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:37208 [200]: GET /?ide_webview_request_time=1768361544196
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:37208 Closing
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51082 Accepted
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51086 Accepted
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51090 Accepted
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51082 [200]: GET /assets/css/unified.css
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51086 [200]: GET /uploads/images/img_6964fb96b27ce.jpg
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51082 Closing
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51090 [200]: GET /uploads/images/img_6964e20850ec5.jpg
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51086 Closing
+[Wed Jan 14 11:35:51 2026] 127.0.0.1:51090 Closing
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51100 Accepted
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51102 Accepted
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51100 [200]: GET /uploads/images/img_6964d6b9c5960.png
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51102 [200]: GET /uploads/images/img_6964e1cc886a3.png
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51100 Closing
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51102 Closing
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51116 Accepted
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51126 Accepted
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51128 Accepted
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51116 [200]: GET /uploads/images/img_6964d606ea467.png
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51116 Closing
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51126 [200]: GET /uploads/images/img_6964e17b1c4df.png
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51128 [200]: GET /uploads/images/img_6964e08e87873.png
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51126 Closing
+[Wed Jan 14 11:35:54 2026] 127.0.0.1:51128 Closing
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51132 Accepted
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51144 Accepted
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51148 Accepted
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51132 [200]: GET /assets/js/main.js
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51144 [200]: GET /assets/js/interactivity.js
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51148 [200]: GET /uploads/article-covers/cover_6965b9251369a.jpg
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51132 Closing
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51144 Closing
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51148 Closing
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51156 Accepted
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51156 [200]: GET /uploads/article-covers/cover_6965b7d4df19d.png
+[Wed Jan 14 11:35:55 2026] 127.0.0.1:51156 Closing
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59772 Accepted
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59772 [200]: GET /api/notification-count.php
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59772 Closing
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59784 Accepted
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59796 Accepted
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59784 [200]: GET /api.php?action=get_statistics
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59784 Closing
+[Wed Jan 14 11:35:57 2026] 127.0.0.1:59806 Accepted
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59796 [200]: GET /api.php?action=get_latest_articles&limit=5
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59796 Closing
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59806 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59806 Closing
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59822 Accepted
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59822 [200]: GET /@vite/client
+[Wed Jan 14 11:35:58 2026] 127.0.0.1:59822 Closing
+[Wed Jan 14 11:36:26 2026] 127.0.0.1:54564 Accepted
+[Wed Jan 14 11:36:26 2026] 127.0.0.1:54564 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:36:26 2026] 127.0.0.1:54564 Closing
+[Wed Jan 14 11:36:26 2026] 127.0.0.1:54572 Accepted
+[Wed Jan 14 11:36:52 2026] 127.0.0.1:54572 [200]: GET /api/notifications.php?limit=5
+[Wed Jan 14 11:36:52 2026] 127.0.0.1:54572 Closing
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41482 Accepted
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41484 Accepted
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41482 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41482 Closing
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41484 [200]: GET /api.php?action=get_latest_articles&limit=5
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41484 Closing
+[Wed Jan 14 11:36:56 2026] 127.0.0.1:41486 Accepted
+[Wed Jan 14 11:37:26 2026] 127.0.0.1:41486 [200]: GET /api.php?action=get_latest_comments&limit=5
+[Wed Jan 14 11:37:26 2026] 127.0.0.1:41486 Closing
+[Wed Jan 14 11:42:02 2026] 159.75.198.232:52721 Accepted
+[Wed Jan 14 11:42:02 2026] 159.75.198.232:52721 [200]: GET /bins/
+[Wed Jan 14 11:42:02 2026] 159.75.198.232:52721 Closing
+[Wed Jan 14 11:55:41 2026] 159.75.198.232:53504 Accepted
+[Wed Jan 14 11:55:42 2026] 159.75.198.232:53504 [200]: GET /
+[Wed Jan 14 11:55:42 2026] 159.75.198.232:53504 Closing

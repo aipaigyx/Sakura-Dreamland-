@@ -1,0 +1,333 @@
+239:            <div class="card p-6 mb-8">
+240:                <div class="flex border-b border-gray-200">
+268:                </div>
+269:            </div>
+272:            <div id="general-tab" class="card p-6 mb-8 tab-content">
+273:                <div class="flex items-center justify-between mb-6">
+275:                </div>
+278:                    <div class="bg-green-50 border border-green-200 text-green-600 px-4 py-3 rounded-lg mb-6 flex items-center">
+281:                    </div>
+286:                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+287:                        <div>
+289:                            <div class="space-y-4">
+290:                                <div>
+294:                                </div>
+296:                                <div>
+300:                                </div>
+302:                                <div>
+306:                                </div>
+308:                                <div>
+312:                                </div>
+314:                                <div>
+318:                                </div>
+320:                                <div>
+324:                                </div>
+325:                            </div>
+326:                        </div>
+327:                    </div>
+329:            </div>
+332:            <div id="theme-tab" class="card p-6 mb-8 tab-content hidden">
+333:                <div class="flex items-center justify-between mb-6">
+335:                </div>
+338:                    <div class="bg-green-50 border border-green-200 text-green-600 px-4 py-3 rounded-lg mb-6 flex items-center">
+341:                    </div>
+346:                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+347:                        <div>
+349:                            <div class="space-y-4">
+350:                                <div>
+359:                                </div>
+361:                                <div>
+363:                                    <div class="flex items-center gap-3">
+374:                                    </div>
+375:                                </div>
+377:                                <div>
+379:                                    <div class="flex items-center gap-3">
+390:                                    </div>
+391:                                </div>
+392:                            </div>
+393:                        </div>
+394:                    </div>
+397:                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+398:                    <div>
+400:                        <div class="space-y-4">
+401:                            <div>
+405:                            </div>
+407:                            <div>
+412:                            </div>
+414:                            <div>
+419:                            </div>
+421:                            <div>
+425:                            </div>
+426:                        </div>
+427:                    </div>
+430:                    <div>
+432:                        <div class="space-y-4">
+433:                            <div>
+437:                            </div>
+438:                        </div>
+439:                    </div>
+440:                </div>
+443:                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+444:                    <div>
+446:                        <div class="space-y-4">
+447:                            <div>
+449:                                <div class="flex items-center gap-3">
+460:                                </div>
+461:                            </div>
+463:                            <div>
+467:                            </div>
+469:                            <div>
+473:                            </div>
+474:                        </div>
+475:                    </div>
+477:                    <div>
+479:                        <div class="space-y-4">
+480:                            <div>
+493:                            </div>
+495:                            <div>
+504:                            </div>
+506:                            <div>
+514:                            </div>
+515:                        </div>
+516:                </div>
+519:                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+520:                    <div>
+522:                        <div class="space-y-4">
+523:                            <div>
+527:                            </div>
+529:                            <div>
+536:                            </div>
+537:                        </div>
+538:                    </div>
+540:                    <div>
+542:                        <div class="space-y-4">
+543:                            <div>
+547:                            </div>
+549:                            <div>
+553:                            </div>
+554:                        </div>
+555:                    </div>
+556:                </div>
+559:                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+560:                    <div>
+562:                        <div class="space-y-4">
+563:                            <div>
+567:                            </div>
+569:                            <div>
+573:                            </div>
+574:                        </div>
+575:                    </div>
+577:                    <div>
+579:                        <div class="space-y-4">
+580:                            <div>
+584:                            </div>
+586:                            <div>
+588:                                <div class="flex items-center gap-3">
+599:                                </div>
+600:                            </div>
+602:                            <div>
+606:                            </div>
+607:                        </div>
+608:                    </div>
+609:                </div>
+612:                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+613:                    <div>
+615:                        <div class="space-y-4">
+616:                            <div>
+618:                                <div class="flex items-center gap-3">
+629:                                </div>
+630:                            </div>
+632:                            <div>
+634:                                <div class="flex items-center gap-3">
+645:                                </div>
+646:                            </div>
+648:                            <div>
+650:                                <div class="flex items-center gap-3">
+661:                                </div>
+662:                            </div>
+664:                            <div>
+666:                                <div class="flex items-center gap-3">
+677:                                </div>
+678:                            </div>
+679:                        </div>
+680:                    </div>
+682:                    <div>
+684:                        <div class="space-y-4">
+685:                            <div>
+687:                                <div class="flex items-center gap-3">
+698:                                </div>
+699:                            </div>
+701:                            <div>
+703:                                <div class="flex items-center gap-3">
+714:                                </div>
+715:                            </div>
+717:                            <div>
+719:                                <div class="flex items-center gap-3">
+730:                                </div>
+731:                            </div>
+732:                        </div>
+733:                    </div>
+734:                </div>
+737:                <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+738:                    <div>
+740:                        <div class="space-y-4">
+741:                            <div>
+745:                            </div>
+747:                            <div>
+751:                            </div>
+752:                        </div>
+753:                    </div>
+755:                    <div>
+757:                        <div class="space-y-4">
+758:                            <div>
+769:                            </div>
+771:                            <div>
+782:                            </div>
+783:                        </div>
+784:                    </div>
+785:                </div>
+788:                <div class="mt-8 flex justify-end">
+792:                </div>
+794:            </div>
+797:            <div id="home-layout-tab" class="card p-6 mb-8 tab-content hidden">
+798:                <div class="flex items-center justify-between mb-6">
+800:                </div>
+803:                    <div class="bg-green-50 border border-green-200 text-green-600 px-4 py-3 rounded-lg mb-6 flex items-center">
+806:                    </div>
+810:                <div class="card p-4 mb-6">
+811:                    <div class="flex border-b border-gray-200">
+818:                    </div>
+819:                </div>
+822:                <div id="sections-sub-tab" class="sub-tab-content mb-8">
+823:                    <div class="card p-6 rounded-2xl">
+824:                        <div class="flex justify-between items-center mb-6">
+829:                        </div>
+831:                        <div class="overflow-x-auto">
+858:                                                <div class="flex items-center space-x-2">
+865:                                                </div>
+871:                        </div>
+872:                    </div>
+873:                </div>
+876:                <div id="cards-sub-tab" class="sub-tab-content mb-8 hidden">
+877:                    <div class="card p-6 rounded-2xl">
+878:                        <div class="flex justify-between items-center mb-6">
+883:                        </div>
+889:                                <div class="mb-8">
+891:                                    <div class="bg-white rounded-xl shadow-md p-4">
+892:                                        <div class="card-sortable" data-section-id="<?php echo $section['id']; ?>">
+894:                                                <div class="draggable bg-gray-50 border border-gray-200 rounded-lg p-4 mb-3 flex justify-between items-center cursor-move" data-card-id="<?php echo $card['id']; ?>">
+895:                                                    <div>
+898:                                                    </div>
+899:                                                    <div class="flex items-center space-x-2">
+909:                                                    </div>
+910:                                                </div>
+912:                                        </div>
+913:                                    </div>
+914:                                </div>
+917:                    </div>
+918:                </div>
+919:            </div>
+922:            <div id="addSectionModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+923:                <div class="bg-white rounded-2xl p-6 max-w-md w-full">
+924:                    <div class="flex justify-between items-center mb-4">
+929:                    </div>
+933:                        <div class="space-y-4">
+934:                            <div>
+938:                            </div>
+939:                            <div>
+943:                            </div>
+944:                            <div>
+948:                            </div>
+949:                            <div>
+953:                            </div>
+954:                        </div>
+955:                        <div class="mt-6 flex justify-end space-x-3">
+962:                        </div>
+964:                </div>
+965:            </div>
+968:            <div id="editSectionModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+969:                <div class="bg-white rounded-2xl p-6 max-w-md w-full">
+970:                    <div class="flex justify-between items-center mb-4">
+975:                    </div>
+980:                        <div class="space-y-4">
+981:                            <div>
+985:                            </div>
+986:                            <div>
+990:                            </div>
+991:                            <div>
+995:                            </div>
+996:                            <div>
+1000:                            </div>
+1001:                        </div>
+1002:                        <div class="mt-6 flex justify-end space-x-3">
+1009:                        </div>
+1011:                </div>
+1012:            </div>
+1015:            <div id="deleteSectionModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+1016:                <div class="bg-white rounded-2xl p-6 max-w-md w-full">
+1017:                    <div class="flex justify-between items-center mb-4">
+1022:                    </div>
+1028:                        <div class="flex justify-end space-x-3">
+1035:                        </div>
+1037:                </div>
+1038:            </div>
+1041:            <div id="addCardModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+1042:                <div class="bg-white rounded-2xl p-6 max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+1043:                    <div class="flex justify-between items-center mb-4">
+1048:                    </div>
+1052:                        <div class="space-y-4">
+1053:                            <div>
+1061:                            </div>
+1062:                            <div>
+1074:                            </div>
+1075:                            <div>
+1079:                            </div>
+1080:                            <div id="card_content_section" class="hidden">
+1084:                            </div>
+1085:                            <div id="card_count_section">
+1089:                            </div>
+1090:                            <div id="card_category_section" class="hidden">
+1099:                            </div>
+1100:                            <div>
+1104:                            </div>
+1105:                            <div>
+1109:                            </div>
+1110:                        </div>
+1111:                        <div class="mt-6 flex justify-end space-x-3">
+1118:                        </div>
+1120:                </div>
+1121:            </div>
+1124:            <div id="editCardModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+1125:                <div class="bg-white rounded-2xl p-6 max-w-2xl w-full max-h-[80vh] overflow-y-auto">
+1126:                    <div class="flex justify-between items-center mb-4">
+1131:                    </div>
+1136:                        <div class="space-y-4">
+1137:                            <div>
+1145:                            </div>
+1146:                            <div>
+1158:                            </div>
+1159:                            <div>
+1163:                            </div>
+1164:                            <div id="edit_card_content_section" class="hidden">
+1168:                            </div>
+1169:                            <div id="edit_card_count_section">
+1173:                            </div>
+1174:                            <div id="edit_card_category_section" class="hidden">
+1183:                            </div>
+1184:                            <div>
+1188:                            </div>
+1189:                            <div>
+1193:                            </div>
+1194:                        </div>
+1195:                        <div class="mt-6 flex justify-end space-x-3">
+1202:                        </div>
+1204:                </div>
+1205:            </div>
+1208:            <div id="deleteCardModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+1209:                <div class="bg-white rounded-2xl p-6 max-w-md w-full">
+1210:                    <div class="flex justify-between items-center mb-4">
+1215:                    </div>
+1221:                        <div class="flex justify-end space-x-3">
+1228:                        </div>
+1230:                </div>
+1231:            </div>
