@@ -104,9 +104,4 @@ composer install
 - GitHub：https://github.com/aipaigyx/Sakura-Dreamland-
 - B站：https://space.bilibili.com/12644772
 - QQ群：1081909009
-
-## 📜 许可证
-本项目基于 MIT 协议开源，可自由使用、修改、分发（需保留原版权声明）。
-
----
-<div align="center">© 2026 樱花梦境 · 二次元博客系统</div>
+ 
