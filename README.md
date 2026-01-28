@@ -90,11 +90,11 @@
 - **MySQL版本**：5.7+
 - **Redis版本**：6.0+（可选，用于缓存）
 
-### 安装步骤
+### 普通服务器安装步骤
 1. **克隆项目**：将项目文件上传到服务器
    ```bash
-   git clone https://github.com/sakuradream/aniblog.git
-   cd aniblog
+   git clone https://github.com/aipaigyx/Sakura-Dreamland-.git
+   cd Sakura-Dreamland-
    ```
 
 2. **创建数据库**：创建MySQL数据库并导入初始数据
@@ -114,6 +114,38 @@
    ```
 
 6. **访问网站**：在浏览器中访问网站地址
+
+### 宝塔面板安装指南
+1. **登录宝塔面板**：打开宝塔面板后台
+
+2. **创建网站**：
+   - 点击「网站」→「添加站点」
+   - 填写域名信息
+   - 选择PHP版本：8.0+
+   - 创建MySQL数据库
+
+3. **安装必要软件**：
+   - **PHP扩展**：fileinfo、redis（如果使用Redis缓存）
+   - **数据库**：MySQL 5.7+
+   - **缓存**：Redis 6.0+（可选）
+
+4. **上传项目**：
+   - 方法1：使用Git克隆
+     - 进入网站根目录
+     - 执行命令：`git clone https://github.com/aipaigyx/Sakura-Dreamland-.git .`
+   - 方法2：上传压缩包
+     - 下载项目压缩包
+     - 上传到网站根目录并解压
+
+5. **配置数据库**：
+   - 修改 `public/db.php` 文件，填写宝塔面板创建的数据库信息
+
+6. **设置目录权限**：
+   - 在宝塔面板中，进入网站根目录
+   - 选中 `public/uploads/`、`public/cache/`、`public/sessions/` 目录
+   - 设置权限为755
+
+7. **访问网站**：在浏览器中访问您的域名
 
 ### 初始账号
 - **管理员账号**：admin@example.com
@@ -175,36 +207,7 @@
 - 方法名使用驼峰命名法
 - 提交消息应该清晰明了，描述你的更改
 
-## 许可证信息
-
-本项目采用 **MIT License** 许可证。
-
-### MIT License
-
-```
-MIT License
-
-Copyright (c) 2026 樱花梦境
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
+## 许可证信息 
 ## 安全注意事项
 
 1. **定期备份**：定期备份数据库和重要文件
@@ -233,9 +236,10 @@ SOFTWARE.
 
 ## 联系我们
 
-- **邮箱**：contact@sakuradream.com
+- **邮箱**：2208850891@qq.com
 - **官方网站**：https://www.sakuradream.com
-- **GitHub**：https://github.com/sakuradream/aniblog
+- **GitHub**：https://github.com/aipaigyx/Sakura-Dreamland-
+- **哔哩哔哩**：https://space.bilibili.com/12644772?spm_id_from=333.1007.0.0
 - **QQ群**：1081909009
 
 ---
