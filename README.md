@@ -179,8 +179,8 @@
 1. **Fork** 本仓库
 2. **Clone** 你fork的仓库到本地
    ```bash
-   git clone https://github.com/YOUR_USERNAME/aniblog.git
-   cd aniblog
+   git clone https://github.com/YOUR_USERNAME/Sakura-Dreamland-.git
+   cd Sakura-Dreamland-
    ```
 3. **创建分支**：创建一个新的分支来开发你的功能或修复
    ```bash
@@ -198,6 +198,9 @@
    ```
 7. **创建Pull Request**：在GitHub上创建一个Pull Request
 
+### 支持项目
+如果你喜欢这个项目，请帮我点个 ⭐ 收藏，这是对我最大的鼓励和支持！
+
 ### 代码规范
 - 遵循PSR-4自动加载规范
 - 使用命名空间组织代码
@@ -207,7 +210,36 @@
 - 方法名使用驼峰命名法
 - 提交消息应该清晰明了，描述你的更改
 
-## 许可证信息 
+## 许可证信息
+
+本项目采用 **MIT License** 许可证。
+
+### MIT License
+
+```
+MIT License
+
+Copyright (c) 2026 樱花梦境
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 ## 安全注意事项
 
 1. **定期备份**：定期备份数据库和重要文件
